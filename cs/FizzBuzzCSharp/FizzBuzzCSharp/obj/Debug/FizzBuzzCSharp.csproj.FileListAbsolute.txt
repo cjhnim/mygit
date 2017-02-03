@@ -1,8 +1,0 @@
-c:\users\francis\documents\visual studio 2015\Projects\FizzBuzzCSharp\FizzBuzzCSharp\bin\Debug\FizzBuzzCSharp.dll
-c:\users\francis\documents\visual studio 2015\Projects\FizzBuzzCSharp\FizzBuzzCSharp\bin\Debug\FizzBuzzCSharp.pdb
-c:\users\francis\documents\visual studio 2015\Projects\FizzBuzzCSharp\FizzBuzzCSharp\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-c:\users\francis\documents\visual studio 2015\Projects\FizzBuzzCSharp\FizzBuzzCSharp\obj\Debug\FizzBuzzCSharp.csprojResolveAssemblyReference.cache
-c:\users\francis\documents\visual studio 2015\Projects\FizzBuzzCSharp\FizzBuzzCSharp\obj\Debug\FizzBuzzCSharp.dll
-c:\users\francis\documents\visual studio 2015\Projects\FizzBuzzCSharp\FizzBuzzCSharp\obj\Debug\FizzBuzzCSharp.pdb
-c:\users\francis\documents\visual studio 2015\Projects\FizzBuzzCSharp\FizzBuzzCSharp\bin\Debug\nunit.framework.dll
-c:\users\francis\documents\visual studio 2015\Projects\FizzBuzzCSharp\FizzBuzzCSharp\bin\Debug\nunit.framework.xml
